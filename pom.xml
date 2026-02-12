@@ -8,11 +8,11 @@
 		<version>4.0.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.devSenai2A</groupId>
-	<artifactId>exercicios</artifactId>
+	<groupId>com.devSenai</groupId>
+	<artifactId>usuarios</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>exercicios</name>
-	<description>exercicios spring boot</description>
+	<name>usuarios</name>
+	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
 		<license/>
